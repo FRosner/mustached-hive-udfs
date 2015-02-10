@@ -6,7 +6,7 @@
 
   <groupId>de.frosner</groupId>
   <artifactId>mustached-hive-udfs</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>Mustached Hive UDFs</name>
 
   <repositories>
