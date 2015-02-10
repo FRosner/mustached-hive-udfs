@@ -9,7 +9,7 @@ import java.util.Map;
 
 @Description(name = "Mode", value = "_FUNC_(column) - Computes the statistical mode of a column inside each group. " +
         "The mode is defined as the value with the highest frequency. If there is no unique mode, the function returns " +
-        "one of the ")
+        "one of the possible values.")
 public final class Mode extends UDAF {
 
     public static class ModeEvaluator implements UDAFEvaluator {
